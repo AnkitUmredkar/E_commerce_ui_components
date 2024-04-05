@@ -47,6 +47,4 @@ Widget gradientButton2(){
       ),
     ),
   );
-
-
 }
