@@ -1,4 +1,4 @@
-<h1 align="center"> 🔸 Widget And Refactoring - Container 🔸 </h1>
+<h1 align="center"> 🔶🔸 5.1 Widget And Refactoring - Container 🔸🔶 </h1>
 
 <h3 align="center"> Task - 1 </h3>
 
@@ -51,7 +51,7 @@
 ###
 
 <h1 align="left"></h1>
-###
+
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/d36c99bb-a646-4a6a-a03e-249ee1f4013c"  />
 </div>
@@ -175,7 +175,7 @@
 
 ###
 
-<h1 align="center"> 🔸 Widget And Refactoring - Button 🔸 </h1>
+<h1 align="center"> 🔶🔸 5.2 Widget And Refactoring - Button 🔸🔶 </h1>
 
 <h3 align="center"> Task - 1 </h3>
 
@@ -189,7 +189,6 @@
   <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/cb427669-54fa-4efe-a551-068f6814b82c"/>
 </div>
 
-
 ###
 
 <div align="center">
@@ -201,7 +200,6 @@
 <h1 align="left"> </h1>
 
 ###
-
 
 <h3 align="center"> Task - 2 </h3>
 
@@ -226,10 +224,8 @@
 
 <h3 align="center"> Task - 3 </h3>
 
-###
-
 <h1 align="left"></h1>
-###
+
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/f6294d21-b81e-49d5-8684-b91a1c7ab3e2"  />
 </div>
@@ -267,16 +263,12 @@
 
 <h3 align="center"> Task - 5 </h3>
 
-###
-
 <h1 align="left"></h1>
 
-###
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/de0a3212-8910-42fc-93e0-82e8b463e4b1" />
 </div>
 
-###
 <div align="center">
 <a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/main.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
@@ -330,3 +322,28 @@
 
 ###
 
+<h1 align="center"> 🔶🔸 5.3 Counter App 🔸🔶 </h1>
+
+<h3 align="center"> Task - 1 </h3>
+
+###
+
+<h1 align="left"> </h1>
+
+###
+
+<div align="center">
+  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/2ac3d847-80c8-4b1a-9516-b524e2bd3ace"/>
+</div>
+
+###
+
+<div align="center">
+<a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/counter_app/counter_app.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+###
+
+<h1 align="left"> </h1>
+
+###
