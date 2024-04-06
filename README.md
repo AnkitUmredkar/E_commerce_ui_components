@@ -226,9 +226,8 @@
 
 <h3 align="center"> Task - 3 </h3>
 
-
 <h1 align="left"></h1>
-###
+
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/f6294d21-b81e-49d5-8684-b91a1c7ab3e2"  />
 </div>
@@ -268,7 +267,6 @@
 
 <h1 align="left"></h1>
 
-###
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/de0a3212-8910-42fc-93e0-82e8b463e4b1" />
 </div>
