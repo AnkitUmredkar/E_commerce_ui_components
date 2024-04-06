@@ -7,6 +7,8 @@ Widget Cube()
       toolbarHeight: 80,
       backgroundColor: Colors.teal,
       centerTitle: true,
+      shadowColor: Colors.black,
+      elevation: 8.5,
       title: const Text(
         '3D Cube',
         style: TextStyle(

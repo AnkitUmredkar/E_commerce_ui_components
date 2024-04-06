@@ -7,6 +7,8 @@ Widget Mashal()
       toolbarHeight: 80,
       backgroundColor: Colors.brown,
       centerTitle: true,
+      shadowColor: Colors.black,
+      elevation: 9,
       title: const Text(
         'Mashal',
         style: TextStyle(

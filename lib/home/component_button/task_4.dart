@@ -6,6 +6,8 @@ Widget gradientButton() {
     appBar: AppBar(
       backgroundColor: Color(0xFF48416A),
       toolbarHeight: 85,
+      elevation: 8,
+      shadowColor: Colors.black,
       title: const Text(
         'Gradient Button',
         style: TextStyle(

@@ -7,6 +7,8 @@ Widget OpenedDoors()
       toolbarHeight: 80,
       backgroundColor: Colors.black,
       centerTitle: true,
+      shadowColor: Colors.black,
+      elevation: 8.5,
       title: const Text(
         'Opened Doors',
         style: TextStyle(

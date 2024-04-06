@@ -1,13 +1,14 @@
 import 'package:e_commerce_ui_components/util/color.dart';
 import 'package:flutter/material.dart';
 
-Widget MixUp()
-{
+Widget MixUp() {
   return Scaffold(
     appBar: AppBar(
       toolbarHeight: 90,
       backgroundColor: appbarColor1,
       centerTitle: true,
+      shadowColor: Colors.black,
+      elevation: 8.5,
       title: Text(
         'Mix-Up',
         style: TextStyle(color: font1, fontSize: 25),
@@ -66,5 +67,3 @@ Widget MixUp()
     ),
   );
 }
-
-

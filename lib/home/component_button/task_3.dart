@@ -4,6 +4,8 @@ Widget liteShadowbutton() {
   return Scaffold(
     appBar: AppBar(
       backgroundColor: Colors.teal,
+      elevation: 7,
+      shadowColor: Colors.black,
       toolbarHeight: 85,
       title: const Text(
         'A Shadow Button',

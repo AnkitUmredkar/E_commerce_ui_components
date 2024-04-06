@@ -8,6 +8,8 @@ Widget MissonRW()
       toolbarHeight: 80,
       backgroundColor: appbarColor1,
       centerTitle: true,
+      shadowColor: Colors.black,
+      elevation: 8.5,
       title: Text(
         'Mission of RNW',
         style: TextStyle(color: font1, fontSize: 25),

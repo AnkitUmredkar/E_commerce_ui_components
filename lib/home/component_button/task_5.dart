@@ -3,8 +3,10 @@ import 'package:flutter/material.dart';
 Widget flagOfIndia() {
   return Scaffold(
     appBar: AppBar(
-      backgroundColor: const Color(0xFF0065B5),
+      backgroundColor: const Color(0xFF2E9AF3),
       toolbarHeight: 85,
+      shadowColor: Colors.black,
+      elevation: 8.5,
       title: const Text(
         'An Indian Flag',
         style: TextStyle(
@@ -39,14 +41,14 @@ Widget flagOfIndia() {
                 begin: Alignment.topCenter,
                 end: Alignment.bottomCenter,
                 colors: [
-                  Colors.orange,
+                  Colors.deepOrange,
                   Colors.white,
-                  Colors.green,
+                  Color(0xFF388E3C),
                 ]),
           ),
           child: const Text(
-            '🇮🇳',
-            style: TextStyle(color: Colors.red, fontSize: 32),
+            '⁕',
+            style: TextStyle(color: Color(0xFF00008B), fontSize: 95),
           ),
         ),
       ),

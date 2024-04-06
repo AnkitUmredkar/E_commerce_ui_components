@@ -7,6 +7,8 @@ Widget LetterCover()
       toolbarHeight: 80,
       backgroundColor: Colors.green,
       centerTitle: true,
+      shadowColor: Colors.black,
+      elevation: 8,
       title: const Text(
         'Letter Cover',
         style: TextStyle(

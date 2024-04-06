@@ -3,8 +3,10 @@ import 'package:flutter/material.dart';
 Widget watchFlutter() {
   return Scaffold(
     appBar: AppBar(
-      backgroundColor: Color(0xFF39335A),
+      backgroundColor: const Color(0xFF48416A),
       toolbarHeight: 85,
+      shadowColor: Colors.black,
+      elevation: 8.5,
       title: const Text(
         'Watch',
         style: TextStyle(
@@ -23,7 +25,7 @@ Widget watchFlutter() {
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
             colors: [
-              Color(0xFF47436D),
+              Color(0xFF48416A),
               Color(0xFF2195F1),
             ],
           ),

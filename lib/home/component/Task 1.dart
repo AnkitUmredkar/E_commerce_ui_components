@@ -8,6 +8,8 @@ Widget odlogo()
     appBar: AppBar(
       toolbarHeight: 80,
       backgroundColor: appbarColor2,
+      elevation: 10,
+      shadowColor: Colors.black,
       centerTitle: true,
       title: Text(
         'My App',
