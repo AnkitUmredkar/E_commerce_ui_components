@@ -189,7 +189,6 @@
   <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/cb427669-54fa-4efe-a551-068f6814b82c"/>
 </div>
 
-
 ###
 
 <div align="center">
@@ -201,7 +200,6 @@
 <h1 align="left"> </h1>
 
 ###
-
 
 <h3 align="center"> Task - 2 </h3>
 
@@ -325,3 +323,28 @@
 
 ###
 
+<h1 align="center"> 🔸 5.3 Counter App 🔸 </h1>
+
+<h3 align="center"> Task - 1 </h3>
+
+###
+
+<h1 align="left"> </h1>
+
+###
+
+<div align="center">
+  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/2ac3d847-80c8-4b1a-9516-b524e2bd3ace"/>
+</div>
+
+###
+
+<div align="center">
+<a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/main.dart">-> 📂 Go To Dart File 📂 <-</a>
+</div>
+
+###
+
+<h1 align="left"> </h1>
+
+###
