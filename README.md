@@ -269,7 +269,6 @@
 <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/de0a3212-8910-42fc-93e0-82e8b463e4b1" />
 </div>
 
-###
 <div align="center">
 <a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/main.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
@@ -340,7 +339,7 @@
 ###
 
 <div align="center">
-<a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/main.dart">-> 📂 Go To Dart File 📂 <-</a>
+<a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/counter_app/counter_app.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
 
 ###
