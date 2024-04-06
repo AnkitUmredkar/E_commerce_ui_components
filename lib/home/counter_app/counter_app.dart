@@ -30,6 +30,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Color(0xFF393E46),
       appBar: AppBar(
         backgroundColor: Colors.teal,
+        toolbarHeight: 80,
         centerTitle: true,
         elevation: 8.5,
         shadowColor: Colors.black,
