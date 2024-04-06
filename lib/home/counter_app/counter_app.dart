@@ -27,8 +27,9 @@ class _HomePageState extends State<HomePage> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color(0xFF393E46),
       appBar: AppBar(
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.teal,
         centerTitle: true,
         elevation: 8.5,
         shadowColor: Colors.black,
@@ -40,34 +41,78 @@ class _HomePageState extends State<HomePage> {
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
-        crossAxisAlignment: CrossAxisAlignment.center,
         children: [
-          const Center(
-            child: Text(
-              'Tap on + button to increase number',
-              style: TextStyle(fontSize: 22, fontWeight: FontWeight.w500,color: Colors.black),
-            ),
+          const Text(
+            'Tap on button to Change number',
+            style: TextStyle(
+                color: Colors.white, fontSize: 22, fontWeight: FontWeight.w500),
           ),
-          Center(
+          Padding(
+            padding: const EdgeInsets.only(top: 30, bottom: 160),
             child: Text(
               '$count',
-              style: const TextStyle(fontSize: 50, fontWeight: FontWeight.w500),
+              style: const TextStyle(
+                  fontSize: 60,
+                  fontWeight: FontWeight.w500,
+                  color: Colors.white),
             ),
           ),
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceAround,
+            children: [
+              InkWell(
+                onTap: () {
+                  setState(() {
+                    count++;
+                  });
+                },
+                child: Container(
+                    height: 80,
+                    width: 80,
+                    alignment: Alignment.center,
+                    decoration: const BoxDecoration(
+                        color: Colors.black,
+                        shape: BoxShape.circle,
+                        boxShadow: [
+                          BoxShadow(
+                              color: Colors.teal,
+                              spreadRadius: 0,
+                              blurRadius: 8,
+                              offset: Offset(10, 10)),
+                        ]),
+                    child: const Text(
+                      '+',
+                      style: TextStyle(color: Colors.white, fontSize: 30),
+                    )),
+              ),
+              InkWell(
+                onTap: () {
+                  setState(() {
+                    count--;
+                  });
+                },
+                child: Container(
+                    height: 80,
+                    width: 80,
+                    alignment: Alignment.center,
+                    decoration: const BoxDecoration(
+                        color: Colors.black,
+                        shape: BoxShape.circle,
+                        boxShadow: [
+                          BoxShadow(
+                              color: Colors.teal,
+                              spreadRadius: 0,
+                              blurRadius: 8,
+                              offset: Offset(10, 10)),
+                        ]),
+                    child: const Text(
+                      '-',
+                      style: TextStyle(color: Colors.white, fontSize: 35),
+                    )),
+              ),
+            ],
+          ),
         ],
-      ),
-      floatingActionButton: FloatingActionButton(
-        backgroundColor: Colors.blue,
-        onPressed: () {
-          setState(() {
-            count++;
-          });
-          print(count);
-        },
-        child: const Icon(
-          Icons.add,
-          color: Colors.white,
-        ),
       ),
     );
   }
