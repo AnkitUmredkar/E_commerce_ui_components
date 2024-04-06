@@ -1,4 +1,4 @@
-<h1 align="center"> 🔸 5.1 Widget And Refactoring - Container 🔸 </h1>
+<h1 align="center"> 🔶🔸 5.1 Widget And Refactoring - Container 🔸🔶 </h1>
 
 <h3 align="center"> Task - 1 </h3>
 
@@ -175,7 +175,7 @@
 
 ###
 
-<h1 align="center"> 🔸 5.2 Widget And Refactoring - Button 🔸 </h1>
+<h1 align="center"> 🔶🔸 5.2 Widget And Refactoring - Button 🔸🔶 </h1>
 
 <h3 align="center"> Task - 1 </h3>
 
@@ -322,7 +322,7 @@
 
 ###
 
-<h1 align="center"> 🔸 5.3 Counter App 🔸 </h1>
+<h1 align="center"> 🔶🔸 5.3 Counter App 🔸🔶 </h1>
 
 <h3 align="center"> Task - 1 </h3>
 
