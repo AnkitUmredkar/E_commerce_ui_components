@@ -51,7 +51,7 @@
 ###
 
 <h1 align="left"></h1>
-###
+
 <div align="center">
 <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/d36c99bb-a646-4a6a-a03e-249ee1f4013c"  />
 </div>
