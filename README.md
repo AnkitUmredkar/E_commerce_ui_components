@@ -226,7 +226,6 @@
 
 <h3 align="center"> Task - 3 </h3>
 
-###
 
 <h1 align="left"></h1>
 ###
@@ -266,8 +265,6 @@
 ###
 
 <h3 align="center"> Task - 5 </h3>
-
-###
 
 <h1 align="left"></h1>
 
