@@ -333,7 +333,7 @@
 ###
 
 <div align="center">
-  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/2ac3d847-80c8-4b1a-9516-b524e2bd3ace"/>
+  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/fe2c3090-a1bf-4251-a309-8f891e30ed17"/>
 </div>
 
 ###
