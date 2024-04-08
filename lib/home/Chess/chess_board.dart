@@ -56,458 +56,67 @@ class _HomePageState extends State<HomePage> {
               )),
           child: Column(
             children: [
-              Row(
-                children: [
-                  Container(
-                      height: 50.90,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 50.65,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                ],
-              ),
-              Row(
-                children: [
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 50.65,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 50.90,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                ],
-              ),
-              Row(
-                children: [
-                  Container(
-                      height: 50.90,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 50.65,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                ],
-              ),
-              Row(
-                children: [
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 50.65,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 50.90,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                ],
-              ),
-              Row(
-                children: [
-                  Container(
-                      height: 50.90,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 50.65,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                ],
-              ),
-              Row(
-                children: [
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 50.65,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 50.90,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                ],
-              ),
-              Row(
-                children: [
-                  Container(
-                      height: 50.90,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 50.65,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                ],
-              ),
-              Row(
-                children: [
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 51.25,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 51.25,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                  Container(
-                    height: 51.25,
-                    width: 50.65,
-                    decoration: const BoxDecoration(
-                      color: Color(0xFF436999),
-                    ),
-                  ),
-                  Container(
-                      height: 50.90,
-                      width: 51.25,
-                      decoration: const BoxDecoration(
-                        color: Color(0xFFE4ECD7),
-                      )),
-                ],
-              ),
+              buildRow1(),
+              buildRow2(),
+              buildRow1(),
+              buildRow2(),
+              buildRow1(),
+              buildRow2(),
+              buildRow1(),
+              buildRow2(),
             ],
           ),
         ),
       ),
     );
   }
+}
+
+Row buildRow2() {
+  return Row(
+    children: [
+      Black(),
+      White(),
+      Black(),
+      White(),
+      Black(),
+      White(),
+      Black(),
+      White(),
+    ],
+  );
+}
+
+Row buildRow1() {
+  return Row(
+    children: [
+      White(),
+      Black(),
+      White(),
+      Black(),
+      White(),
+      Black(),
+      White(),
+      Black(),
+    ],
+  );
+}
+
+Container Black() {
+  return Container(
+    height: 51.25,
+    width: 51.10,
+    decoration: const BoxDecoration(
+      color: Color(0xFF436999),
+    ),
+  );
+}
+
+Container White() {
+  return Container(
+      height: 50.90,
+      width: 51.25,
+      decoration: const BoxDecoration(
+        color: Color(0xFFE4ECD7),
+      ));
 }
