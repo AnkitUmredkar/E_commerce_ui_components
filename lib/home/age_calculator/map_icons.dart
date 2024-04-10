@@ -49,183 +49,55 @@ class _HomePageState extends State<HomePage> {
           height: double.infinity,
           width: double.infinity,
           decoration: const BoxDecoration(
-            color: Color(0xFFEEEEEE),
+            color: Color(0xFFDBDBDB),
           ),
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.spaceBetween,
-            children: [
-              Container(
-                  height: 90,
-                  width: double.infinity,
-                  alignment: Alignment.center,
-                  decoration: const BoxDecoration(
-                    color: Colors.white,
-                  ),
-                  child: const Padding(
-                    padding: EdgeInsets.only(left: 20, right: 20),
-                    child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Text(
-                            'Exit',
-                            style: TextStyle(
-                              fontSize: 25,
-                            ),
-                          ),
-                          Icon(
-                            Icons.exit_to_app,
-                            size: 28,
-                          ),
-                        ]),
-                  )),
-              Container(
-                  height: 90,
-                  width: double.infinity,
-                  alignment: Alignment.center,
-                  decoration: const BoxDecoration(
-                    color: Colors.white,
-                  ),
-                  child: const Padding(
-                    padding: EdgeInsets.only(left: 20, right: 20),
-                    child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Text(
-                            'Play',
-                            style: TextStyle(
-                              fontSize: 25,
-                            ),
-                          ),
-                          Icon(
-                            Icons.play_arrow,
-                            size: 30,
-                          ),
-                        ]),
-                  )),
-              Container(
-                  height: 90,
-                  width: double.infinity,
-                  alignment: Alignment.center,
-                  decoration: const BoxDecoration(
-                    color: Colors.white,
-                  ),
-                  child: const Padding(
-                    padding: EdgeInsets.only(left: 20, right: 20),
-                    child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Text(
-                            'Pause',
-                            style: TextStyle(
-                              fontSize: 25,
-                            ),
-                          ),
-                          Icon(
-                            Icons.pause,
-                            size: 28,
-                          ),
-                        ]),
-                  )),
-              Container(
-                  height: 90,
-                  width: double.infinity,
-                  alignment: Alignment.center,
-                  decoration: const BoxDecoration(
-                    color: Colors.white,
-                  ),
-                  child: const Padding(
-                    padding: EdgeInsets.only(left: 20, right: 20),
-                    child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Text(
-                            'Stop',
-                            style: TextStyle(
-                              fontSize: 25,
-                            ),
-                          ),
-                          Icon(
-                            Icons.stop,
-                            size: 28,
-                          ),
-                        ]),
-                  )),
-              Container(
-                  height: 90,
-                  width: double.infinity,
-                  alignment: Alignment.center,
-                  decoration: const BoxDecoration(
-                    color: Colors.white,
-                  ),
-                  child: const Padding(
-                    padding: EdgeInsets.only(left: 20, right: 20),
-                    child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Text(
-                            'Close',
-                            style: TextStyle(
-                              fontSize: 25,
-                            ),
-                          ),
-                          Icon(
-                            Icons.close,
-                            size: 28,
-                          ),
-                        ]),
-                  )),
-              Container(
-                  height: 90,
-                  width: double.infinity,
-                  alignment: Alignment.center,
-                  decoration: const BoxDecoration(
-                    color: Colors.white,
-                  ),
-                  child: const Padding(
-                    padding: EdgeInsets.only(left: 20, right: 20),
-                    child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Text(
-                            'Delet',
-                            style: TextStyle(
-                              fontSize: 25,
-                            ),
-                          ),
-                          Icon(
-                            Icons.delete,
-                            size: 28,
-                          ),
-                        ]),
-                  )),
-              Container(
-                  height: 90,
-                  width: double.infinity,
-                  alignment: Alignment.center,
-                  decoration: const BoxDecoration(
-                    color: Colors.white,
-                  ),
-                  child: const Padding(
-                    padding: EdgeInsets.only(left: 20, right: 20),
-                    child: Row(
-                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                        children: [
-                          Text(
-                            'E-mail',
-                            style: TextStyle(
-                              fontSize: 25,
-                            ),
-                          ),
-                          Icon(
-                            Icons.mail,
-                            size: 28,
-                          ),
-                        ]),
-                  )),
-            ],
+          child: SingleChildScrollView(
+            child: Column(
+              children:
+              List.generate(mapicon.length, (index) => box(name : mapicon[index]['name'],icon: mapicon[index]['icon'])),
+            ),
           ),
         ),
       ),
     );
   }
+}
+
+List mapicon = [
+  {'name' : 'Exit','icon' : Icons.exit_to_app},
+  {'name' : 'Play','icon' : Icons.play_arrow},
+  {'name' : 'Pause','icon' : Icons.pause},
+  {'name' : 'Stop', 'icon': Icons.stop},
+  {'name' : 'Close','icon' : Icons.close},
+  {'name' : 'Delete','icon' : Icons.delete},
+  {'name' : 'E-mail','icon' : Icons.mail},
+  {'name' : 'Setting','icon' : Icons.settings},
+  {'name' : 'Home','icon' : Icons.home},
+];
+
+Container box({required String name, required IconData icon}) {
+  return Container(
+    height: 90,
+    width: double.infinity,
+    alignment: Alignment.center,
+    margin: const EdgeInsets.only(bottom: 20),
+    decoration: const BoxDecoration(
+      color: Colors.white,
+    ),
+    child: Padding(
+      padding: const EdgeInsets.only(left: 20, right: 20),
+      child: Row(mainAxisAlignment: MainAxisAlignment.spaceBetween, children: [
+        Text(
+          name,
+          style: const TextStyle(
+            fontSize: 26,
+          ),
+        ),
+        Icon(
+          icon,
+          size: 32,
+        ),
+      ]),
+    ),
+  );
 }

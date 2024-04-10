@@ -56,46 +56,8 @@ class _HomePageState extends State<HomePage> {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                InkWell(
-                  onTap: () {
-                    setState(() {
-                      count = count + 2;
-                    });
-                  },
-                  child: Container(
-                    height: 65,
-                    width: 170,
-                    alignment: Alignment.center,
-                    decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(12),
-                      color: Color(0xFF54759E),
-                    ),
-                    child: const Text(
-                      '+ 2',
-                      style: TextStyle(color: Colors.white, fontSize: 32),
-                    ),
-                  ),
-                ),
-                InkWell(
-                  onTap: () {
-                    setState(() {
-                      count = count - 2;
-                    });
-                  },
-                  child: Container(
-                    height: 65,
-                    width: 170,
-                    alignment: Alignment.center,
-                    decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(12),
-                      color: Color(0xFF54759E),
-                    ),
-                    child: const Text(
-                      '- 2',
-                      style: TextStyle(color: Colors.white, fontSize: 32),
-                    ),
-                  ),
-                ),
+                buildInkWell(text: '+ 2', number: 2),
+                buildInkWell(text: '- 2', number: -2),
               ],
             ),
           ),
@@ -104,46 +66,8 @@ class _HomePageState extends State<HomePage> {
             child: Row(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                InkWell(
-                  onTap: () {
-                    setState(() {
-                      count = count - 4;
-                    });
-                  },
-                  child: Container(
-                    height: 65,
-                    width: 170,
-                    alignment: Alignment.center,
-                    decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(12),
-                      color: Color(0xFF54759E),
-                    ),
-                    child: const Text(
-                      '- 4',
-                      style: TextStyle(color: Colors.white, fontSize: 32),
-                    ),
-                  ),
-                ),
-                InkWell(
-                  onTap: () {
-                    setState(() {
-                      count = count + 4;
-                    });
-                  },
-                  child: Container(
-                    height: 65,
-                    width: 170,
-                    alignment: Alignment.center,
-                    decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(12),
-                      color: Color(0xFF54759E),
-                    ),
-                    child: const Text(
-                      '+ 4',
-                      style: TextStyle(color: Colors.white, fontSize: 32),
-                    ),
-                  ),
-                ),
+                buildInkWell(text: '+ 4', number: 4),
+                buildInkWell(text: '- 4', number: -4),
               ],
             ),
           ),
@@ -168,6 +92,29 @@ class _HomePageState extends State<HomePage> {
             ),
           ),
         ],
+      ),
+    );
+  }
+
+  InkWell buildInkWell({required String text, required int number}) {
+    return InkWell(
+      onTap: () {
+        setState(() {
+          count = count + number;
+        });
+      },
+      child: Container(
+        height: 65,
+        width: 170,
+        alignment: Alignment.center,
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(12),
+          color: const Color(0xFF54759E),
+        ),
+        child: Text(
+          text,
+          style: const TextStyle(color: Colors.white, fontSize: 32),
+        ),
       ),
     );
   }
