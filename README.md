@@ -184,7 +184,7 @@
 <div align = "center">
   &nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left" href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/Chess/chess_board.dart">-> 📂 Go To Dart File 📂<-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/calculator.dart">-> 📂 Go To Dart File 📂 <-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="right" href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/map_icons.dart">-> 📂 Go To Dart File 📂 <-</a>
@@ -203,9 +203,9 @@
 
 ###
 <div align = "center">
-  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/9788ddb9-2f1b-431f-b997-e1bd16a4c8ad" />
+  <img align = "left" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/9788ddb9-2f1b-431f-b997-e1bd16a4c8ad" />
   <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/8ee4b91f-f954-4c8b-8776-9522d307615a" />
-  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/992d8902-8236-4e91-a682-74833e6566c4"  />
+  <img align = "right" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/992d8902-8236-4e91-a682-74833e6566c4"  />
 </div>
 
 ###
