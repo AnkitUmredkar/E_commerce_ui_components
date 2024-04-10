@@ -179,14 +179,12 @@
   <img align = "right" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/43d4f9c2-2e4a-47cb-8569-e1013665fbaa"  />
 </div>
 
-
-
 ###
 
 <div align = "center">
   &nbsp;&nbsp;&nbsp;&nbsp;
 <a align="left" href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/Chess/chess_board.dart">-> 📂 Go To Dart File 📂<-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/calculator.dart">-> 📂 Go To Dart File 📂 <-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="right" href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/map_icons.dart">-> 📂 Go To Dart File 📂 <-</a>
@@ -210,13 +208,14 @@
   <img align = "right" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/992d8902-8236-4e91-a682-74833e6566c4"  />
 </div>
 
+###
+
 <div align = "center">
 <a align="left" href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/IconWithScroll.dart">-> 📂 Go To Dart File 📂<-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/Dynamic_list.dart">-> 📂 Go To Dart File 📂 <-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a align="right" href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/IconEditor.dart">-> 📂 Go To Dart File 📂 <-</a>
-
 </div>
   
 ###
