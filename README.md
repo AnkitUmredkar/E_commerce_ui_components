@@ -203,16 +203,16 @@
 
 ###
 <div align = "center">
-  <img align = "left" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/9788ddb9-2f1b-431f-b997-e1bd16a4c8ad" />
+  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/9788ddb9-2f1b-431f-b997-e1bd16a4c8ad" />
   <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/8ee4b91f-f954-4c8b-8776-9522d307615a" />
-  <img align = "right" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/992d8902-8236-4e91-a682-74833e6566c4"  />
+  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/992d8902-8236-4e91-a682-74833e6566c4"  />
 </div>
 
 ###
 
 <div align = "center">
 <a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/IconWithScroll.dart">-> 📂 Go To Dart File 📂<-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/Dynamic_list.dart">-> 📂 Go To Dart File 📂 <-</a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AnkitUmredkar/E_commerce_ui_components/blob/master/lib/home/age_calculator/IconEditor.dart">-> 📂 Go To Dart File 📂 <-</a>
