@@ -234,8 +234,8 @@
 
 <div align = "center">
   <img align = "left" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/47eda11b-710b-4054-b7ad-efe7ff9d8eb5" />
-  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/d1c3aca8-8fbf-4470-9177-25ce457992a4" />
-  <img align = "right" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/1916c706-e265-4e60-b739-13b54a07987a"  />
+  <img height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/1916c706-e265-4e60-b739-13b54a07987a" />
+  <img align = "right" height="550" src="https://github.com/AnkitUmredkar/E_commerce_ui_components/assets/149374001/d1c3aca8-8fbf-4470-9177-25ce457992a4"  />
 </div>
 
 ###
